@@ -1,4 +1,4 @@
-# final-project-101
+### final-project-101
 Final Project on github 101
 
 I really enjoyd this chapter.
@@ -9,5 +9,5 @@ Btw this trhee lines are added from my local computer , just the "Final project.
 
 Oh, and don't forget. Kalob is the best teacher on the planet.
 
-### I will definitely leave you and your team a awesome review.
+## I will definitely leave you and your team a awesome review.
 
